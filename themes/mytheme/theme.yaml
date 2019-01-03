@@ -1,0 +1,15 @@
+name: MyTheme
+description: 'Simple Bootswatch'
+author: 'Sergey Semibratyev'
+homepage: http://home.dev
+code: ''
+form:
+  fields:
+    site_name:
+      label: Site name
+      comment: The global website name
+      default: MyTheme
+    site_description:
+      label: Site description
+      comment: The global website description
+      default: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Qui dicta minus molestiae vel beatae natus eveniet ratione temporibus aperiam harum alias officiis assumenda officia quibusdam deleniti eos cupiditate dolore doloribus!
