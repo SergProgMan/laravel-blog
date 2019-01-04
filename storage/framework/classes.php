@@ -152,4 +152,9 @@
   'Backend\\FormWidgets\\MarkdownEditor' => 'modules/backend/formwidgets/MarkdownEditor.php',
   'RainLab\\Blog\\FormWidgets\\BlogMarkdown' => 'plugins/rainlab/blog/formwidgets/BlogMarkdown.php',
   'System\\Classes\\ErrorHandler' => 'modules/system/classes/ErrorHandler.php',
+  'Cms\\Twig\\ComponentNode' => 'modules/cms/twig/ComponentNode.php',
+  'Cms\\Classes\\ComponentPartial' => 'modules/cms/classes/ComponentPartial.php',
+  'Cms\\Helpers\\File' => 'modules/cms/helpers/File.php',
+  'dev\\custom\\Plugin' => 'plugins/dev/custom/Plugin.php',
+  'Dev\\Custom\\Resources\\Components\\Links' => 'plugins/dev/custom/resources/components/Links.php',
 );
